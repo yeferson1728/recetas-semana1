@@ -1,0 +1,169 @@
+body {
+  background-color: antiquewhite;
+}
+#contededora {
+  margin-top: 35px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(50, 99, 57);
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.titulo {
+  color: rgb(255, 255, 255);
+}
+.receta {
+  color: rgb(252, 252, 252);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#contenido {
+  border-radius: 10px;
+  text-align: center;
+  color: aliceblue;
+  padding: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background-image: url(./hero.jpg);
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.receta02 {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+#primera {
+  color: rgb(247, 247, 247);
+  border-radius: 20px;
+  background-color: rgb(50, 99, 57);
+  padding: 10px;
+  margin-left: 10px;
+}
+#segunda {
+  color: rgb(248, 248, 248);
+  border-radius: 20px;
+  background-color: rgb(50, 99, 57);
+  padding: 10px;
+  margin-left: 10px;
+}
+#tercera {
+  color: rgb(248, 248, 248);
+  border-radius: 20px;
+  background-color: rgb(50, 99, 57);
+  padding: 10px;
+  margin-left: 10px;
+}
+#caja {
+  padding-bottom: 20px;
+  color: #000000;
+  background-color: aliceblue;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+#tituloreceta {
+  color: #7e4333;
+  margin-left: 20px;
+}
+#parrafo {
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#ingredientes {
+  margin-left: 20px;
+  color: black margin-left 20px;
+}
+#ingrediente {
+  color: #7e4333;
+  margin-left: 20px;
+}
+#valores {
+  color: #7e4333;
+  margin-left: 20px;
+}
+#valores1 {
+  border-bottom: 1px solid #7e4333;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: flex-start;
+}
+#calorias {
+  padding-left: 0px;
+}
+#cal {
+  padding-left: 800px;
+}
+#carbo {
+  border-bottom: 1px solid #7e4333;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: flex-start;
+}
+#carbo1 {
+  padding-left: 0px;
+}
+#cero {
+  padding-left: 763px;
+}
+#prote {
+  border-bottom: 1px solid #7e4333;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: flex-start;
+}
+#prote1 {
+  padding-left: 0px;
+}
+#g {
+  padding-left: 793px;
+}
+#gra {
+  border-bottom: 1px solid #7e4333;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: flex-start;
+}
+#gra2 {
+  padding-left: 0px;
+}
+#k {
+  padding-left: 809px;
+}
+.caja2 {
+  padding-bottom: 20px;
+  color: #000000;
+  background-color: aliceblue;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+.tituloreceta2 {
+  color: #7e4333;
+  margin-left: 20px;
+}
+#parrafo2 {
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#ingrediente2 {
+  color: #7e4333;
+  margin-left: 20px;
+}
+#valores2 {
+  color: #7e4333;
+  margin-left: 20px;
+}
