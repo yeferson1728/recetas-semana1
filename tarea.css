@@ -2,8 +2,24 @@ body {
   background-color: antiquewhite;
 }
 @media screen and (max-width: 700px) {
-  #contenido {
+  .contenido {
     display: none;
+  }
+  .receta02 {
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  #primera {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #segunda {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #tercera {
+    margin-bottom: 10px;
+    text-align: center;
   }
 }
 #contededora {
@@ -24,7 +40,7 @@ body {
   justify-content: center;
   flex-direction: column;
 }
-#contenido {
+.contenido {
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
