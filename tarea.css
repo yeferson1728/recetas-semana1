@@ -173,7 +173,7 @@ body {
   .contenido {
     display: none;
   }
-  table tr :nth-of-type(2) .receta02 {
+ .receta02 {
     flex-direction: column;
     justify-content: space-evenly;
   }
