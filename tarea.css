@@ -1,27 +1,6 @@
 body {
   background-color: antiquewhite;
 }
-@media screen and (max-width: 700px) {
-  .contenido {
-    display: none;
-  }
-  .receta02 {
-    flex-direction: column;
-    justify-content: space-evenly;
-  }
-  #primera {
-    margin-bottom: 10px;
-    text-align: center;
-  }
-  #segunda {
-    margin-bottom: 10px;
-    text-align: center;
-  }
-  #tercera {
-    margin-bottom: 10px;
-    text-align: center;
-  }
-}
 #contededora {
   margin-top: 35px;
   padding: 15px;
@@ -189,4 +168,25 @@ body {
 #valores2 {
   color: #7e4333;
   margin-left: 20px;
+}
+@media screen and (max-width: 700px) {
+  .contenido {
+    display: none;
+  }
+  table tr :nth-of-type(2) .receta02 {
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  #primera {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #segunda {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #tercera {
+    margin-bottom: 10px;
+    text-align: center;
+  }
 }
